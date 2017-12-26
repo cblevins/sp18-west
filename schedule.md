@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Schedule
 permalink: /schedule/
 order: 4
@@ -9,7 +9,7 @@ order: 4
 
 1/8: Northeastern University
 
-1/10: Cahokia and Caddo 
+1/10: Cahokia and Caddo
 - Fenn, *Encounters at the Heart of the World* (Prologue)
 
 **Week 2**

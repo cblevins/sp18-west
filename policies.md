@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Policies
 permalink: /policies/
 order: 2

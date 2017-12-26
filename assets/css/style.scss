@@ -1,0 +1,40 @@
+---
+---
+
+@import "jekyll-theme-tactile";
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 1em;
+  line-height: 1.5;
+  color: #6d6d6d;
+  text-shadow: none;
+  /*text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);*/
+  background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  margin-top: 40px;
+  font-size: 15px;
+  color: #6d6d6d;
+  background: transparent url('../images/hr.png') 0 0 no-repeat;
+}
+
+footer a {
+  color: #d5000d;
+}
+
+p {
+  /*margin-bottom: 20px;*/
+  font-weight: 400;
+}
+
+ul li {
+  list-style-position: inside;
+  list-style: disc;
+  padding-left: 0px;
+  margin-left: 30px;
+}
+
