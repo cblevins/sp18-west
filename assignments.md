@@ -36,6 +36,6 @@ Select a particular location and analyze its history and geography within the br
 
 You will be presenting your analysis in an alternative format from the traditional 1,500-2,000 word final paper: an **"unessay."** This can take any format you like: podcast episode, sculpture, restaurant menu, board game, meme collage, etc. I want you to think creatively and apply whatever skills and interests you have to the assignment. For those who find this assignment daunting, I will provide guidance for a "default" option: an online exhibit of historical sources related to your place. Regardless of the format, the key requirement is that you must present a clear analysis and interpretation of your place that is supported by both primary and secondary sources. Each analysis will include an annotated bibliography of sources consulted and, depending on the format of your analysis, a written overview introducing and explaining the project. This final project can be completed individually or in groups of up to three students. You are required to meet with me during office hours to discuss your idea, a plan for completion, and to ensure that it is both feasible and meets the goals of the assignment.
 
-**Final Exam (15%)** - TBD
+**Final Exam (15%)** - *TBD*
 
-In-class exam consisting of short identifications and essay questions, administered during the university's scheduled exam time.
+Exam consisting of short identifications and essay questions.

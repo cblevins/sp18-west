@@ -14,7 +14,7 @@ order: 4
 
 **Week 2**
 
-~~1/15~~: *No Class (MLK Jr. Day)*
+~~1/15: *No Class (MLK Jr. Day)*~~
 
 1/17: Double Ditch Mandan Village
 - Fenn, *Encounters at the Heart of the World* (Ch. 1, 3, 4)
@@ -53,7 +53,7 @@ order: 4
 
 **Week 7**
 
-~~2/19~~: *No Class (President's Day)*
+~~2/19: *No Class (President's Day)*~~
 
 2/21: Apache Pass
 - Reséndez, *The Other Slavery* (Ch. 11)
@@ -106,7 +106,7 @@ order: 4
 
 **Week 14**
 
-~~4/16~~: *No Class (Patriot's Day)*
+~~4/16: *No Class (Patriot's Day)*~~
 
 4/18: Northeastern University
 - West, *The Essential West* (Ch. 14: Stories)
