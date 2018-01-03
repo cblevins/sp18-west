@@ -5,6 +5,10 @@ permalink: /policies/
 order: 2
 --- 
 
+**Office Hours**
+
+Office hours are held every Tuesday, from 1:00PM-2:30PM, and by appointment. Take advantage of office hours as an opportunity to talk about any aspect of the class: the week’s reading, ideas and strategies for your upcoming paper or project, feedback you have received, or difficult themes and concepts. If weekly office hours conflict with your schedule, please contact me to schedule a different time to meet. I look forward to getting to know each of you! My office is located in Room 237 in [Meserve Hall](https://www.google.com/maps/place/Meserve+Hall/@42.3378125,-71.0931276,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a22217737a9:0x8ba53f8873603d10!8m2!3d42.3378086!4d-71.0909389). 
+
 **Attendance**
 
 Attendance at each class is mandatory. One unexcused absence is allowed per semester, after which any absences will require documentation or else they will impact your final grade. All absences (excused and unexcused) must be made-up with a 500-word response to the day or week’s readings that selects two of the major themes to analyze/critique/elaborate on, due within one week of the absence. Being on time is also part of attendance – if you show up late to class more than once, I will begin deducting points from your participation grade.
@@ -20,10 +24,6 @@ You are welcome to bring a laptop or tablet to take notes during class, but plea
 **Late Assignments**
 
 Late assignments will be penalized by one half letter grade for each day they are late, starting immediately after the specified time (an A paper becomes an A-, an A- to B+, etc.).
-
-**Office Hours**
-
-My office is located in Room 237 in [Meserve Hall](https://www.google.com/maps/place/Meserve+Hall/@42.3378125,-71.0931276,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a22217737a9:0x8ba53f8873603d10!8m2!3d42.3378086!4d-71.0909389). Take advantage of office hours as an opportunity to talk about any aspect of the class: the week’s reading, ideas and strategies for your upcoming paper or project, feedback you have received, or difficult themes and concepts. If weekly office hours conflict with your schedule, please contact me to schedule a different time to meet. I look forward to getting to know each of you!
 
 **Course Content Note**
 
