@@ -73,6 +73,7 @@ order: 4
 - Frederick Jackson Turner, "The Significance of the Frontier in American History" [excerpts]
 
 3/14: Angel Island
+- Kathryn Schulz, ["Citizen Khan: The Old West's Muslim Tamale King"](https://www.newyorker.com/magazine/2016/06/06/zarif-khans-tamales-and-the-muslims-of-sheridan-wyoming), *The New Yorker*, June 2016
 
 **Week 10**
 
