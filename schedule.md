@@ -45,10 +45,10 @@ order: 4
 
 **Week 6**
 
-2/12: The Sierras
+2/12: Sutter's Mill
 - West, *The Essential West* (Ch. 2: Golden Dreams)
 
-2/14: The Platte River
+2/14: Fort Laramie
 - Reséndez, *The Other Slavery* (Ch. 10)
 - West, *The Essential West* (Ch. 12: American Pathways)
 
@@ -66,7 +66,7 @@ order: 4
 2/26: Sand Creek, Colorado
 - Layli Long Soldier, [“38"](https://onbeing.org/blog/layli-long-soldier-38/) (poem from Soldier's collection *WHEREAS*)
 
-2/28: Promontory Point, Utah
+2/28: Promontory, Utah
 - West, *The Essential West* (Ch. 10: Bison R' Us, Ch. 11: Jesse James, Borderman)
 
 **Week 9**
@@ -97,7 +97,7 @@ order: 4
 
 **Week 12**
 
-4/2: Topaz Relocation Center
+4/2: Topaz Internment Site
 - Mine Okubo, *Citizen 13660*
 
 4/4: Las Vegas Strip
