@@ -17,6 +17,7 @@ order: 4
 ~~1/15: *No Class (MLK Jr. Day)*~~
 
 1/17: Double Ditch Mandan Village
+- In-class geography quiz
 - Fenn, *Encounters at the Heart of the World* (Ch. 1, 3, 4)
 
 **Week 3**
@@ -58,6 +59,8 @@ order: 4
 2/21: Apache Pass
 - Reséndez, *The Other Slavery* (Ch. 11)
 
+*Take-home midterm due Sunday, 2/25*
+
 **Week 8**
 
 2/26: Sand Creek, Colorado
@@ -74,6 +77,8 @@ order: 4
 
 3/14: Angel Island
 - Kathryn Schulz, ["Citizen Khan: The Old West's Muslim Tamale King"](https://www.newyorker.com/magazine/2016/06/06/zarif-khans-tamales-and-the-muslims-of-sheridan-wyoming), *The New Yorker*, June 2016
+
+*Pop Culture Review due Sunday, 3/18*
 
 **Week 10**
 
@@ -109,5 +114,9 @@ order: 4
 
 ~~4/16: *No Class (Patriot's Day)*~~
 
+*Place Analysis due Monday, 4/16*
+
 4/18: Northeastern University
 - West, *The Essential West* (Ch. 14: Stories)
+
+*Final Exam TBD*
