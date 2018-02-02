@@ -47,6 +47,7 @@ order: 4
 
 2/12: Sutter's Mill
 - West, *The Essential West* (Ch. 2: Golden Dreams)
+- Backstory Podcast, ["All the Glitters? Legacies of the California Gold Rush"](http://backstoryradio.org/shows/gold-rush/) 19 January 2018
 
 2/14: Fort Laramie
 - Reséndez, *The Other Slavery* (Ch. 10)
