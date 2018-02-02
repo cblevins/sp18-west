@@ -38,7 +38,7 @@ order: 4
 
 **Week 5**
 
-2/5: [Class Visit to Massachusetts Historical Society]
+2/5: Visit to Massachusetts Historical Society (meet in [the MHS lobby](https://goo.gl/maps/UkBiDquMjpj) at 3:10PM).
 
 2/7: Fort Vancouver
 - Fenn, *Encounters at the Heart of the World* (Ch. 10, 13, 14)
