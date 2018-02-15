@@ -56,6 +56,7 @@ order: 4
 **Week 7**
 
 ~~2/19: *No Class (President's Day)*~~
+
 2/21: Webbers Pass, Cherokee Nation
 - Reséndez, *The Other Slavery* (Ch. 11)
 - Federal Writers' Project Slave Narrative of Betty Robertson, Oklahoma ([PDF]({{site.baseurl}}/downloads/WPA-slave-narrative.pdf))
