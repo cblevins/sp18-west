@@ -28,7 +28,7 @@ Take-home exam consisting of short identifications and essay questions.
 
 **Pop Culture Review (20%)** - *Due Sunday March 18th*
 
-Write a 4-5 page (1,000-1,250 words) review of a movie, TV series, video game, novel, art exhibit, or other piece of pop culture that falls loosely under the "Western" genre. Your review should evaluate how it portrays the western U.S. in terms of the region's myth, memory, and history.
+Write a 4-5 page (1,250-1,500 words) review of a movie, TV series, video game, novel, art exhibit, or other piece of pop culture that falls loosely under the "Western" genre. [Full description of the assignment]({{site.baseurl}}/pop-culture-review).
 
 **Place Analysis (25%)** - *Due Monday, April 16th*
 
