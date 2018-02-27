@@ -80,7 +80,7 @@ order: 4
 3/14: Angel Island
 - Kathryn Schulz, ["Citizen Khan: The Old West's Muslim Tamale King"](https://www.newyorker.com/magazine/2016/06/06/zarif-khans-tamales-and-the-muslims-of-sheridan-wyoming), *The New Yorker*, June 2016
 
-*[Pop Culture Review]({{site.baseurl}}/pop-culture-review)) due Sunday, 3/18*
+*[Pop Culture Review]({{site.baseurl}}/pop-culture-review) due Sunday, 3/18*
 
 **Week 10**
 
@@ -88,7 +88,7 @@ order: 4
 - Watch Ken Burns, *The National Parks: America's Best Idea*, Episode 1: The Scripture of Nature
 
 3/21: Ludlow, Colorado
-- Primary source packet [distributed by professor]({{site.baseurl}}/downloads/packet.pdf)
+- Primary source packet distributed by professor.
 
 **Week 11**
 
