@@ -6,4 +6,4 @@ Although typical reviews might judge the artistic merits of a work on its own te
 
 Please submit your review as a Word document emailed to <c.blevins@northeastern.edu>. Include your full name and page numbers. You do not need to include formal citations unless you draw on outside sources, in which case you should include footnotes with a full reference to the work you are citing. I will be evaluating your review based on the following [writing rubric]({{site.baseurl}}/downloads/writing-rubric.pdf).
 
-*This assignment is due Sunday, March 18, 2018 by 11:59PM*
+*This assignment is due Sunday, March 18, 2018 by 11:59PM.*

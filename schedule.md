@@ -107,16 +107,16 @@ order: 4
 
 **Week 13**
 
-4/9: Oakland
-
-4/11: Silicon Valley
+4/9: Silicon Valley
 - Margaret O'Mara, ["Silicon Valleys,"](https://boomcalifornia.com/2011/06/16/silicon-valleys/) *Boom*, Summer 2011.
+
+*Place Analysis due Tuesday, 4/10*
+
+4/11: Final Project Presentations
 
 **Week 14**
 
 ~~4/16: *No Class (Patriot's Day)*~~
-
-*Place Analysis due Monday, 4/16*
 
 4/18: Northeastern University
 - West, *The Essential West* (Ch. 14: Stories)

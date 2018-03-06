@@ -30,7 +30,7 @@ Take-home exam consisting of short identifications and essay questions.
 
 Write a 4-5 page (1,250-1,500 words) review of a movie, TV series, video game, novel, art exhibit, or other piece of pop culture that falls loosely under the "Western" genre. [Full description of the assignment]({{site.baseurl}}/pop-culture-review).
 
-**Place Analysis (25%)** - *Due Monday, April 16th*
+**Place Analysis (25%)** - *Due Tuesday, April 10th*
 
 Select a particular location and analyze its history and geography within the broader context of the western U.S. How you define the location is  up to you. It can be a particular building (the Bellagio Hotel in Las Vegas), street (San Francisco's Mission Street), neighborhood (Compton), geological feature (the Grand Canyon), or community (Vail Ski Resort). Some questions to consider: What are some of the important events, people, or processes that unfolded at this place? What was this place's significance for the region? How does understanding this place help us understand the West?
 
