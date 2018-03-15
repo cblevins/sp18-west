@@ -85,7 +85,7 @@ order: 4
 **Week 10**
 
 3/19: Ludlow, Colorado
-- Watch Ken Burns, *The National Parks: America's Best Idea*, [Episode 1: The Scripture of Nature](http://ezproxy.neu.edu/login?url=https://search.alexanderstreet.com/view/work/bibliographic_entity|video_work|2362497) (first 29:00 minutes)
+- Watch Ken Burns, *The National Parks: America's Best Idea*, [Episode 1: The Scripture of Nature](http://ezproxy.neu.edu/login?url=https://search.alexanderstreet.com/view/work/bibliographic_entity&#124;video_work&#124;2362497) (first 29:00 minutes)
 
 3/21: Hetch Hetchy Valley
 - Prep for mock Congressional hearing on proposal to dam Hetch Hetchy Valley (primary source packets distributed by professor).
