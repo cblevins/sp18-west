@@ -110,9 +110,9 @@ order: 4
 4/9: Silicon Valley
 - Margaret O'Mara, ["Silicon Valleys,"](https://boomcalifornia.com/2011/06/16/silicon-valleys/) *Boom*, Summer 2011.
 
-*Place Analysis due Tuesday, 4/10*
+4/11: Place Analysis Presentations
 
-4/11: Final Project Presentations
+*Final Version of Place Analysis due Friday, 4/13*
 
 **Week 14**
 

@@ -30,11 +30,9 @@ Take-home exam consisting of short identifications and essay questions.
 
 Write a 4-5 page (1,250-1,500 words) review of a movie, TV series, video game, novel, art exhibit, or other piece of pop culture that falls loosely under the "Western" genre. [Full description of the assignment]({{site.baseurl}}/pop-culture-review).
 
-**Place Analysis (25%)** - *Due Tuesday, April 10th*
+**Place Analysis Unessay (25%)** - *In-Class Presentation Wednesday, 4/11. Final version due Friday, April 13th*
 
-Select a particular location and analyze its history and geography within the broader context of the western U.S. How you define the location is  up to you. It can be a particular building (the Bellagio Hotel in Las Vegas), street (San Francisco's Mission Street), neighborhood (Compton), geological feature (the Grand Canyon), or community (Vail Ski Resort). Some questions to consider: What are some of the important events, people, or processes that unfolded at this place? What was this place's significance for the region? How does understanding this place help us understand the West?
-
-You will be presenting your analysis in an alternative format from the traditional 1,500-2,000 word final paper: an **"unessay."** This can take any format you like: podcast episode, sculpture, restaurant menu, board game, meme collage, etc. I want you to think creatively and apply whatever skills and interests you have to the assignment. For those who find this assignment daunting, I will provide guidance for a "default" option: an online exhibit of historical sources related to your place. Regardless of the format, the key requirement is that you must present a clear analysis and interpretation of your place that is supported by both primary and secondary sources. Each analysis will include an annotated bibliography of sources consulted and, depending on the format of your analysis, a written overview introducing and explaining the project. This final project can be completed individually or in groups of up to three students. You are required to meet with me during office hours to discuss your idea, a plan for completion, and to ensure that it is both feasible and meets the goals of the assignment.
+Select a particular location and analyze its history and geography within the broader context of the western U.S. You will present your place analysis in an "unessay" format. [Full description of the assignment]({{site.baseurl}}/place-analysis)
 
 **Final Exam (15%)** - *TBD*
 
