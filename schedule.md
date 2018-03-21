@@ -93,7 +93,7 @@ order: 4
 **Week 11**
 
 3/26: Los Angeles
-- Watch *Salt of the Earth* (1954)
+- Watch *Salt of the Earth* (1954) - 1 hr, 32 min. Available on Amazon Video: [Option 1](http://a.co/51buP5w) or [Option 2](http://a.co/0qXBZpm).]
 
 3/28: Hollywood
 
