@@ -96,6 +96,7 @@ order: 4
 - Watch *Salt of the Earth* (1954) - 1 hr, 32 min. Available on [YouTube](https://www.youtube.com/watch?v=i9oY4rmDaWw) or Amazon Video ([Option 1](http://a.co/51buP5w) or [Option 2](http://a.co/0qXBZpm)).
 
 3/28: Hollywood
+- Watch through first **1 hr, 26 min** of *The Magnificent Seven* (1960). Available for rent on [YouTube](https://www.youtube.com/watch?v=58abXibG768) or [Amazon Video](https://www.amazon.com/Magnificent-Seven-Yul-Brynner/dp/B0011XF81G/).
 
 **Week 12**
 
