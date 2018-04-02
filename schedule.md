@@ -101,7 +101,7 @@ order: 4
 **Week 12**
 
 4/2: Topaz Internment Site
-- Mine Okubo, *Citizen 13660*
+- Miné Okubo, *Citizen 13660*
 
 4/4: Las Vegas Strip
 - Patricia Limerick, "Seeing and Being Seen: Tourism in the American West"
@@ -122,4 +122,4 @@ order: 4
 4/18: Northeastern University
 - West, *The Essential West* (Ch. 14: Stories)
 
-*Final Exam TBD*
+*Take-Home Final Exam due Sunday, 4/22 by 11:59PM*

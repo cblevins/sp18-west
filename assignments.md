@@ -32,8 +32,8 @@ Write a 4-5 page (1,250-1,500 words) review of a movie, TV series, video game, n
 
 **Place Analysis Unessay (25%)** - *In-Class Presentation Wednesday, 4/11. Final version due Friday, April 13th*
 
-Select a particular location and analyze its history and geography within the broader context of the western U.S. You will present your place analysis in an "unessay" format. [Full description of the assignment]({{site.baseurl}}/place-analysis)
+Select a particular location and analyze its history and geography within the broader context of the western U.S. You will present your place analysis in an "unessay" format. [Full description of the assignment]({{site.baseurl}}/place-analysis).
 
-**Final Exam (15%)** - *TBD*
+**Final Exam (15%)** - *Due Sunday April 22nd*
 
-Exam consisting of short identifications and essay questions.
+Take-home exam consisting of short identifications and essay questions.
