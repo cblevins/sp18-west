@@ -120,6 +120,5 @@ order: 4
 ~~4/16: *No Class (Patriot's Day)*~~
 
 4/18: Northeastern University
-- West, *The Essential West* (Ch. 14: Stories)
 
 *Take-Home Final Exam due Sunday, 4/22 by 11:59PM*
