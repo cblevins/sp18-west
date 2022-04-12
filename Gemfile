@@ -26,4 +26,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "kramdown", ">= 2.3.1"
+gem "nokogiri", ">= 1.13.4"
 
