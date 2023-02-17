@@ -27,4 +27,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "kramdown", ">= 2.3.1"
 gem "nokogiri", ">= 1.13.4"
+gem "activesupport", ">= 6.1.7.1"
+gem "faraday-retry"
 
+
+gem "webrick", "~> 1.8"
